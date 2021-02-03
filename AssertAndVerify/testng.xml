@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Assert and Verify Demo">
+    <test verbose="2" preserve-order="true" name="Assert and Verify Demo">
+        <classes>
+            <class name="com.assertvar.test_assertverify">
+            </class>
+        </classes>
+    </test>
+</suite>
